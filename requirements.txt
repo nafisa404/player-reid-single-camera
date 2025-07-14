@@ -1,0 +1,8 @@
+ultralytics==8.1.5
+opencv-python
+numpy
+scikit-learn
+filterpy
+matplotlib
+sort-tracker
+scipy
